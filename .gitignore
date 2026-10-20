@@ -1,0 +1,28 @@
+# Local AI configuration
+CLAUDE.md
+GEMINI.md
+AGENTS.md
+.omc/
+.agents/
+.pi/
+
+# Local runtime and development environments
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+.trellis/.runtime/
+.trellis/.developer
+.trellis/.backup-*/
+
+# Private research inputs, generated audio, and fetched responses
+.trellis/tasks/*/research/raw/
+.trellis/tasks/*/research/audio-sample/
+.trellis/tasks/*/research/local-evidence/
+.trellis/tasks/*/research/audio-sample-inspection.md
+.trellis/tasks/*/research/user-screenshot-evidence.md
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example

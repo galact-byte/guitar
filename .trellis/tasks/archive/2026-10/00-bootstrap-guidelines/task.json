@@ -1,0 +1,32 @@
+{
+  "id": "00-bootstrap-guidelines",
+  "name": "00-bootstrap-guidelines",
+  "title": "Bootstrap Guidelines",
+  "description": "Fill in project development guidelines for AI agents",
+  "status": "completed",
+  "dev_type": "docs",
+  "scope": null,
+  "package": null,
+  "priority": "P1",
+  "creator": "galact",
+  "assignee": "galact",
+  "createdAt": "2026-10-20",
+  "completedAt": "2026-10-21",
+  "branch": null,
+  "base_branch": null,
+  "worktree_path": null,
+  "commit": null,
+  "pr_url": null,
+  "subtasks": [],
+  "children": [],
+  "parent": null,
+  "relatedFiles": [
+    ".trellis/spec/backend/",
+    ".trellis/spec/frontend/"
+  ],
+  "notes": "First-time setup task created by trellis init (fullstack project). 2026-10-21：用户要求归档此无关的初始化任务；未执行或验收项目规范填充，不代表 bootstrap 工作完成。",
+  "meta": {
+    "closure_reason": "user_requested_archive_without_implementation",
+    "requirements_completed": false
+  }
+}
