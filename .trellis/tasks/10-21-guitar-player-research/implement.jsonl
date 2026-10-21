@@ -1,0 +1,8 @@
+{"file":".trellis/spec/backend/quality-guidelines.md","reason":"音频研究已验证的数值序列化、起音连续性与踏板契约，禁止重演94/122音失败"}
+{"file":".trellis/spec/frontend/index.md","reason":"确认当前前端规范仍待填充，不假定既有Web栈；原生UI以任务设计为准"}
+{"file":".trellis/spec/guides/cross-layer-thinking-guide.md","reason":"音频、作业状态、适配计划、试听与真实输入的跨层检查"}
+{"file":".trellis/spec/guides/code-reuse-thinking-guide.md","reason":"优先复用已验证模型和本机依赖，避免重写完整播放器或重复下载"}
+{"file":".trellis/tasks/10-21-guitar-player-research/research/independent-neural-model-probe.md","reason":"暂认可的模型基线、GPU复用、哈希、padding与适用边界"}
+{"file":".trellis/tasks/10-21-guitar-player-research/research/attack-loss-diagnosis.md","reason":"第4–5秒起音丢失的回归证据，覆盖相同不等于音乐保真"}
+{"file":".trellis/tasks/10-21-guitar-player-research/research/input-reuse-review.md","reason":"用户提供combine_ark的Win32/F8/身份校验经验、许可与鼠标边界"}
+{"file":".trellis/tasks/10-21-guitar-player-research/research/user-specified-tools.md","reason":"现有播放器四页能力、自动导入接口与授权缺口，禁止回到手工MIDI串联"}

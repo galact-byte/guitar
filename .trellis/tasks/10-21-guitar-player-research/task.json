@@ -1,9 +1,9 @@
 {
   "id": "guitar-player-research",
   "name": "guitar-player-research",
-  "title": "异环明音凛自动演奏工具调研",
-  "description": "核实双演奏模式、现有工具、音乐导入与转谱方案，形成有来源的可行性建议，不进入产品实现",
-  "status": "planning",
+  "title": "Windows异环明音凛自动演奏工具",
+  "description": "完整方案已获批准：本地音频导入、GPU转谱、适配试听、36键与四页和弦演奏及前台输入安全；真实游戏校准由用户执行",
+  "status": "in_progress",
   "dev_type": null,
   "scope": null,
   "package": null,
@@ -12,7 +12,7 @@
   "assignee": "galact",
   "createdAt": "2026-10-21",
   "completedAt": null,
-  "branch": null,
+  "branch": "feat/windows-player",
   "base_branch": "main",
   "worktree_path": null,
   "commit": null,
@@ -21,6 +21,6 @@
   "children": [],
   "parent": null,
   "relatedFiles": [],
-  "notes": "",
+  "notes": "用户明确回复：可以，后面有问题我再说。批准最新prd/design/implement及整体摘要，包含前台键盘/鼠标和本地校准/分页区域核对；不由AI操作游戏。",
   "meta": {}
 }

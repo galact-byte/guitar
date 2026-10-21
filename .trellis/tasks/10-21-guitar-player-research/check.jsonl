@@ -1,0 +1,6 @@
+{"file":".trellis/spec/backend/quality-guidelines.md","reason":"验证起音/尾音/显式踏板/JSON边界，不用测试数量冒充音乐效果"}
+{"file":".trellis/spec/guides/cross-layer-thinking-guide.md","reason":"核对job取消、晚到、计划/试听一致性、输入释放与目标窗口保护"}
+{"file":".trellis/tasks/10-21-guitar-player-research/research/independent-neural-model-probe.md","reason":"核对原样识别基线、显卡实际执行、原文件不变和模型非通用限制"}
+{"file":".trellis/tasks/10-21-guitar-player-research/research/attack-loss-diagnosis.md","reason":"拦截人为删起音、机械填空和记谱覆盖等于音乐衔接的错误验收"}
+{"file":".trellis/tasks/10-21-guitar-player-research/research/input-reuse-review.md","reason":"核对未照搬鼠标扰动/自动提权/固定等待，普通鼠标与校准必须在审批范围内"}
+{"file":".trellis/tasks/10-21-guitar-player-research/research/user-specified-tools.md","reason":"检查完整四页与实际映射，不把他人工具宣称当本机已验收或自由许可"}

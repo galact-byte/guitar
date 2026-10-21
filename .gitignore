@@ -26,3 +26,12 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Local listening exports derived from private audio
+/试听结果/
+
+# Local browser research downloads and logs
+/.playwright-mcp/
+
+# Product local jobs, models, calibration and logs
+/data/
